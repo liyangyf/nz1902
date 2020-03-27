@@ -8,3 +8,5 @@ console.log("在家写了商品详情");
 console.log("1");
 
 console.log("liyang的b1");
+
+consolo.log("这是a1的修改");
