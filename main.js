@@ -15,3 +15,6 @@ console.log("这是master的修改")
 consolo.log("这是a1的修改");
 
 console.log("我是组长，正在开心的写着自己的代码")
+console.log("组员做好login之后，随手加了个console.log")
+
+console.log("故意冲突组长的代码")
