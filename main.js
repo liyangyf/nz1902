@@ -6,3 +6,5 @@ console.log("商品列表写好了");
 
 console.log("在家写了商品详情");
 console.log("1");
+
+console.log("liyang的b1");
